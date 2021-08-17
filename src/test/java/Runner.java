@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
         features = "src/test/resources/features",
         glue = "steps",
-        tags = "@myTest",
+        tags = "@newTest",
         snippets = SnippetType.CAMELCASE)
 
 public class Runner {
